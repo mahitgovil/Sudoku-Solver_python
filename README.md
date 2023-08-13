@@ -13,11 +13,11 @@
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 </p>
-<p align="center">   
+<!-- <p align="center">   
 	<a href="https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d">
     	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
-</p>
+</p> -->
 
 
 - Are you ready to put your logical thinking and reasoning skills to the test? Look no further than Sudoku Solver, the ultimate tool for solving Sudoku puzzles quickly and easily.
