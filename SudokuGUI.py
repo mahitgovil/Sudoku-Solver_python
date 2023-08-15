@@ -162,7 +162,7 @@ class Board:
                 self.board[empty[0]][empty[1]] = nums + 1
                 self.tiles[empty[0]][empty[1]].value = nums + 1
                 self.tiles[empty[0]][empty[1]].correct = True
-                pygame.time.delay(63)  # delay to slow down the solving animation
+                pygame.time.delay(63)  # time delay to slow down the solving animation
                 self.redraw(
                     {}, wrong, time
                 )  # redraw the game window with the updated board
